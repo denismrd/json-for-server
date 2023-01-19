@@ -111,17 +111,6 @@
       "year": 1952
     },
     {
-      "id": 11,
-      "author": "Giovanni Boccaccio",
-      "country": "Italy",
-      "imageLink": "images/the-decameron.jpg",
-      "language": "Italian",
-      "link": "https://en.wikipedia.org/wiki/The_Decameron\n",
-      "pages": 1024,
-      "title": "The Decameron",
-      "year": 1351
-    },
-    {
       "id": 12,
       "author": "Jorge Luis Borges",
       "country": "Argentina",
